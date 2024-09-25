@@ -2,7 +2,7 @@
 #yellow {
 	background:yellow;
 	border-width:1px;
-    bolder-color:solid green;
+    border:solid green;
 }
 #red {
 	background:red;
