@@ -1,16 +1,16 @@
 /*  your css code here. If applicable */
 #yellow {
 	background:yellow;
-	border:1px;
-	border:solid green;
+	border-width:1px;
+    bolder-color:solid green;
 }
 #red {
 	background:red;
-	border:1px;
+	border-width:1px;
 	border:solid black;
 }
 #green {
 	background:green;
-	border:1px;
+	border-width:1px;
 	border:solid yellow;
 }
